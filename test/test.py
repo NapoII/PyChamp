@@ -1,1 +1,0 @@
-from util.__funktion__ import *
