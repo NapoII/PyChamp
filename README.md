@@ -48,7 +48,8 @@ Whether you're just starting out or looking to improve your skills, this channel
 + [Install](#usage)
 + [Lizenz](#Lizenz)
   
-## 🎥 [How easy it is to create a log with Python](PyChamp/-1-%20LogNow/-1- LogNow) <a name = "-1-"></a>
+## 🎥 [How easy it is to create a log with Python](./PyChamp/-1-%20LogNow) <a name="-1-"></a>
+
 coming soon...
 
 ## 💻 Install <a name = "usage"></a>
