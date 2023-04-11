@@ -1,8 +1,31 @@
-[![github/NapoII](https://raw.githubusercontent.com/NapoII/PyChamp/main/README_img/Readme_top.png)](https://github.com/NapoII)
+<h1 align="center">
+  <img src="README_img/Readme_top.gif" width="400" />
+</h1>
 
-# PyChamp
+<center>
 
-[![downloads/total](https://img.shields.io/github/downloads/NapoII/PyChamp/total)](https://github.com/NapoII/PyChamp/archive/refs/heads/main.zip) [![github/repo-size](https://img.shields.io/github/repo-size/NapoII/PyChamp)](https://github.com/NapoII/PyChamp/archive/refs/heads/main.zip) [![github/license](https://img.shields.io/github/license/NapoII/PyChamp)](https://github.com/NapoII/PyChamp/blob/main/LICENSE) [![github/last-commit](https://img.shields.io/github/downloads/NapoII/PyChamp/total)](https://img.shields.io/github/issues/NapoII/PyChamp?style=plastic) [![github/issues_open](https://img.shields.io/github/issues/NapoII/PyChamp?style=plastic)](https://img.shields.io/github/issues-raw/NapoII/PyChamp) [![github/stars](https://img.shields.io/github/stars/NapoII/PyChamp?style=social)](https://github.com/NapoII/PyChamp/stargazers) [![discord](https://img.shields.io/discord/190307701169979393)](https://discord.gg/knTKtKVfnr)
+<p align="center">
+  <a href="https://github.com/NapoII/PyChamp/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/github/downloads/NapoII/PyChamp/total" alt="downloads/total">
+  </a>
+  <a href="https://github.com/NapoII/PyChamp/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/github/repo-size/NapoII/PyChamp" alt="github/repo-size">
+  </a>
+  <a href="https://github.com/NapoII/PyChamp/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/NapoII/PyChamp" alt="github/license">
+  </a>
+  <a href="https://github.com/NapoII/PyChamp/issues">
+    <img src="https://img.shields.io/github/issues-raw/NapoII/PyChamp?style=plastic" alt="github/issues_open">
+  </a>
+  <a href="https://github.com/NapoII/PyChamp/stargazers">
+    <img src="https://img.shields.io/github/stars/NapoII/PyChamp?style=social" alt="github/stars">
+  </a>
+  <a href="https://discord.gg/knTKtKVfnr">
+    <img src="https://img.shields.io/discord/190307701169979393" alt="discord">
+  </a>
+</p>
+
+</center>
 
 Coming soon...
 ## 📝 Table of Contents
