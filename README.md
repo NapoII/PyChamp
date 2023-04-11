@@ -36,26 +36,25 @@
 
 </center>
 
-Coming soon...
-## 📝 Table of Contents
-+ [Demo / Working](#demo)
+Welcome to my channel dedicated to Python programming! If you're passionate about coding, automation, data analysis, web development, or any other application of Python, you've come to the right place.
+
+On this channel, I'll share my knowledge and experience of working with Python, from beginner-friendly tutorials to advanced topics and real-world projects. You'll learn how to write clean, efficient, and well-structured code, how to use popular libraries and frameworks, and how to solve common programming challenges.
+
+Whether you're just starting out or looking to improve your skills, this channel will provide you with valuable insights and resources to help you succeed in your Python journey. So hit that subscribe button and join our community of Python enthusiasts today!
+
+## 📝🎥 Table of YT Contents
++ [How easy it is to create a log with Python](#-1-)
+  
 + [Install](#usage)
-+ [How it works](#Use)
 + [Lizenz](#Lizenz)
-## 🎥 Demo / Working <a name = "demo"></a>
+  
+## 🎥 [How easy it is to create a log with Python](PyChamp/-1-%20LogNow/-1- LogNow) <a name = "-1-"></a>
 coming soon...
 
 ## 💻 Install <a name = "usage"></a>
 ```cmd
 git clone https://github.com/NapoII/PyChamp
 pip install -r requirements.txt
-```
-## 💭 How it works <a name = "Use"></a>
-
-start PyChamp.py directly from the folder or run in cmd:
-```cmd
-cd <local path of PyChamp>
-python PyChamp.py
 ```
 
 ## 📚 Lizenz <a name = "Lizenz"></a>
