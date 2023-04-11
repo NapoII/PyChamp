@@ -50,7 +50,12 @@ Whether you're just starting out or looking to improve your skills, this channel
   
 ## 🎥 [How easy it is to create a log with Python](./PyChamp/-1-%20LogNow) <a name="-1-"></a>
 
-coming soon...
+<a href="https://www.youtube.com/shorts/F4DPTMW2Mcg">
+  <img src="README_img/YT.gif" width="100" />
+</a>
+A small tutorial on how to create a log file in pyhton.
+
+
 
 ## 💻 Install <a name = "usage"></a>
 ```cmd
