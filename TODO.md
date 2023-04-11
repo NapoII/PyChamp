@@ -42,4 +42,4 @@
 
 ### Ideas
 
-- [ ]
+- [ ] vid about how to own py installer
