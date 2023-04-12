@@ -59,7 +59,8 @@ A small tutorial on how to create a log file in pyhton.
   ```CMD
   pip install logNow  
   ```
-  https://www.youtube.com/shorts/F4DPTMW2Mcg
+https://www.youtube.com/shorts/F4DPTMW2Mcg
+  
 https://github.com/NapoII/logNow
 
 ## 🎥 [Create a GUI in 1 min](./PyChamp/-2-%20Fast%20PyGUI) <a name="-2-"></a>
@@ -68,6 +69,7 @@ Create a small user interface for your programme very quickly
   pip install pyautogui  
   ```
 https://www.youtube.com/shorts/n594oH_dtvI
+
 https://pyautogui.readthedocs.io
 
 ---
@@ -75,6 +77,7 @@ https://pyautogui.readthedocs.io
 ## 💻 Install <a name = "usage"></a>
 ```cmd
 git clone https://github.com/NapoII/PyChamp
+
 pip install -r requirements.txt
 ```
 
