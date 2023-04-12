@@ -48,8 +48,11 @@ Whether you're just starting out or looking to improve your skills, this channel
 ---
 
 ## 📝🎥 Table of YT Contents
+
 + [How easy it is to create a log with Python](#-1-)
 + [Create a GUI in 1 min](-2-)
++ [clean your path](-3-)
+
 + [Install](#usage)
 + [Lizenz](#Lizenz)
   
@@ -69,6 +72,14 @@ Create a small user interface for your programme very quickly
   ```
 https://www.youtube.com/shorts/n594oH_dtvI
 https://pyautogui.readthedocs.io
+
+
+## 🎥 [clean your path](./PyChamp/-3-%20rightPath) <a name="-2-"></a>
+
+Clean your path. 
+https://youtube.com/shorts/F4DPTMW2Mcg
+https://docs.python.org/3/library/os.html
+
 
 ---
 
