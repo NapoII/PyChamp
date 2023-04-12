@@ -8,6 +8,7 @@
 *.ini
 !__ini__.py
 /templates
+ScreenRecorder.exe
 
 #  Git Ignore File
 # 

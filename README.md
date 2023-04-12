@@ -36,26 +36,41 @@
 
 </center>
 
+<a href="https://www.youtube.com/shorts/F4DPTMW2Mcg">
+  <img src="README_img/YT.gif" width="100" />
+</a>
 Welcome to my channel dedicated to Python programming! If you're passionate about coding, automation, data analysis, web development, or any other application of Python, you've come to the right place.
 
 On this channel, I'll share my knowledge and experience of working with Python, from beginner-friendly tutorials to advanced topics and real-world projects. You'll learn how to write clean, efficient, and well-structured code, how to use popular libraries and frameworks, and how to solve common programming challenges.
 
 Whether you're just starting out or looking to improve your skills, this channel will provide you with valuable insights and resources to help you succeed in your Python journey. So hit that subscribe button and join our community of Python enthusiasts today!
 
+---
+
 ## 📝🎥 Table of YT Contents
 + [How easy it is to create a log with Python](#-1-)
-  
++ [Create a GUI in 1 min](-2-)
 + [Install](#usage)
 + [Lizenz](#Lizenz)
   
 ## 🎥 [How easy it is to create a log with Python](./PyChamp/-1-%20LogNow) <a name="-1-"></a>
 
-<a href="https://www.youtube.com/shorts/F4DPTMW2Mcg">
-  <img src="README_img/YT.gif" width="100" />
-</a>
 A small tutorial on how to create a log file in pyhton.
+  ```CMD
+  pip install logNow  
+  ```
+  https://www.youtube.com/shorts/F4DPTMW2Mcg
+https://github.com/NapoII/logNow
 
+## 🎥 [Create a GUI in 1 min](./PyChamp/-2-%20Fast%20PyGUI) <a name="-2-"></a>
+Create a small user interface for your programme very quickly
+  ```CMD
+  pip install pyautogui  
+  ```
+https://www.youtube.com/shorts/n594oH_dtvI
+https://pyautogui.readthedocs.io
 
+---
 
 ## 💻 Install <a name = "usage"></a>
 ```cmd
