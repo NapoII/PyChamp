@@ -79,7 +79,9 @@ https://pyautogui.readthedocs.io
 ## 🎥 [clean your path](./PyChamp/-3-%20rightPath) <a name="-2-"></a>
 
 Clean your path. 
+
 https://youtube.com/shorts/F4DPTMW2Mcg
+
 https://docs.python.org/3/library/os.html
 
 
