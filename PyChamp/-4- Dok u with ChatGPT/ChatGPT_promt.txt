@@ -1,0 +1,5 @@
+Write me a .py docstr ("""""") with the content:
+Args, Returns and Example Usage.
+For Args and Returns create a list with "- "-
+and for Example Usage create a list with ">>> ".
+Only write the docstr in """""" in copycode mode. Here is the code:

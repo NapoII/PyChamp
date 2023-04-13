@@ -18,18 +18,8 @@ file_path = "C:/Users\\username/Documents\\example.txt"
 
 file_path = os.path.normpath(file_path)
 
-
-
-
-
-
-
-
-
-
-print ("\n\n\n\n\n")
-print(result_path)
-print ("\n\n\n\n\n")
-
 print(file_path)
-print ("\n\n\n\n\n")
+
+# Use os.sep to add ad a "/" or "\"
+
+file_path = "C:/Users/username " + os.sep + " Documents"
