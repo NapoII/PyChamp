@@ -49,12 +49,13 @@ Whether you're just starting out or looking to improve your skills, this channel
 
 ## 📝🎥 Table of YT Contents
 
-+ [How easy it is to create a log with Python](#-1-)
-+ [Create a GUI in 1 min](-2-)
-+ [clean your path](-3-)
-
-+ [Install](#usage)
-+ [Lizenz](#Lizenz)
+- [📝🎥 Table of YT Contents](#-table-of-yt-contents)
+- [🎥 How easy it is to create a log with Python ](#-how-easy-it-is-to-create-a-log-with-python-)
+- [🎥 Create a GUI in 1 min ](#-create-a-gui-in-1-min-)
+- [🎥 clean your path ](#-clean-your-path-)
+- [🎥 Doku with ChatGPT ](#-doku-with-chatgpt-)
+- [💻 Install ](#-install-)
+- [📚 Lizenz ](#-lizenz-)
   
 ## 🎥 [How easy it is to create a log with Python](./PyChamp/-1-%20LogNow) <a name="-1-"></a>
 
@@ -76,13 +77,22 @@ https://www.youtube.com/shorts/n594oH_dtvI
 https://pyautogui.readthedocs.io
 
 
-## 🎥 [clean your path](./PyChamp/-3-%20rightPath) <a name="-2-"></a>
+## 🎥 [clean your path](./PyChamp/-3-%20rightPath) <a name="-3-"></a>
 
 Clean your path. 
 
 https://youtube.com/shorts/F4DPTMW2Mcg
 
 https://docs.python.org/3/library/os.html
+
+
+## 🎥 [Doku with ChatGPT](./PyChamp/-4-%20Doku%20with%20ChatGPT) <a name="-4-"></a>
+
+create a Doku with ChatGPT
+
+https://www.youtube.com/shorts/wWfGACIBIU0
+
+https://chat.openai.com/chat
 
 
 ---
